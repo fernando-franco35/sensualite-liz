@@ -19,7 +19,6 @@ const productos = [
   { nombre: "Conjunto bordo combinado", precio: 15000, oferta: 16500, img: "./assets/img24.png" },
   { nombre: "conjunto negro clasico", precio: 15000, oferta: 16500, img: "./assets/img25.png" },
   { nombre: "conjunto negro clasico", precio: 15000, oferta: 16500, img: "./assets/img26.png" },
-  { nombre: "Pack x3 bombis less", precio: 12000, oferta: 13000, img: "./assets/img28.png" },
   { nombre: "Bedetina azul", precio: 5500, oferta: 7000, img: "./assets/img29.png" },
   { nombre: "scrunchies de pelo", precio: 3000, oferta: 4500, img: "./assets/img30.png" },
   { nombre: "bedetina amarilla", precio: 5500, oferta: 7000, img: "./assets/img31.png" },
@@ -27,6 +26,7 @@ const productos = [
   { nombre: "Bombachas culotte", precio: 8000, oferta: 9500, img: "./assets/img33.png" },
   { nombre: "Bombachas culotte", precio: 8000, oferta: 9500, img: "./assets/img35.png" },
   { nombre: "set de 3 piezas", precio: 18000, oferta: 19500, img: "./assets/img38.png" },
+  
 ];
 
 const galeria = document.getElementById("galeria");
