@@ -1,9 +1,7 @@
 const productos = [
   { nombre: "Corpiño triangulo con coleta", precio: 8000, oferta: 9500, img: "./assets/img1.png" },
-  { nombre: "Conjunto triangulo basico", precio: 15000, oferta: 18000, img: "./assets/img3.png" },
   { nombre: "Bombis less", precio: 3500, oferta: 5000, img: "./assets/img4.png" },
   { nombre: "Set c/ coleta blanco", precio: 18000, oferta: 19500, img: "./assets/img6.png" },
-  { nombre: "Set c/ tira clasico", precio: 15000, oferta: 16500, img: "./assets/img7.png" },
   { nombre: "Set c/ tira rosa", precio: 15000, oferta: 17000, img: "./assets/img8.png" },
   { nombre: "Set de microtul negro", precio: 18000, oferta: 20000, img: "./assets/img9.png" },
   { nombre: "Bombis less pack x2", precio: 7500, oferta: 8500, img: "./assets/img11.png" },
@@ -15,6 +13,7 @@ const productos = [
   { nombre: "Set niña", precio: 12000, oferta: 13500, img: "./assets/img17.png" },
   { nombre: "Pack x3 bedetinas", precio: 12000, oferta: 13000, img: "./assets/img19.png" },
   { nombre: "Conjunto bordo combinado", precio: 15000, oferta: 16500, img: "./assets/img21.png" },
+  { nombre: "Set c/ tira clasico", precio: 15000, oferta: 16500, img: "./assets/img7.png" },
   { nombre: "conjunto negro clasico", precio: 15000, oferta: 16500, img: "./assets/img25.png" },
   { nombre: "Bedetina azul", precio: 5500, oferta: 7000, img: "./assets/img29.png" },
   { nombre: "scrunchies de pelo", precio: 3000, oferta: 4500, img: "./assets/img30.png" },
